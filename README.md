@@ -37,7 +37,7 @@
 >팀원 : 5명
 >
 >기술 스택:  
->Java17 / Spring boot/ JPA / React / Kotlin / Retrofit / Firebase Cloud Messaging /
+>Java17 / Spring boot / JPA / React / Kotlin / Retrofit / Firebase Cloud Messaging /
 >Gradle / / Tomcat / MySQL / AWS 
 
 >[프로젝트 상세 설명](https://github.com/jinnnnyh/final_project.git) 참고
