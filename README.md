@@ -12,8 +12,8 @@
 >팀원 : 2명
 >
 >기술 스택:  
->Java 17 / Spring boot / Gradle / MyBatis / Tomcat / MySQL /
->HTML / Thymeleaf / Javascript / JQuery / Ajax / Bootstrap / AWS
+>Java 17 / Spring boot / / MyBatis / MySQL / HTML / Thymeleaf /
+>JQuery / Ajax / Bootstrap / Tomcat / Gradle / AWS
 >
 >[프로젝트 상세 설명](https://github.com/jinnnnyh/web_project.git) 참고
 
@@ -37,8 +37,8 @@
 >팀원 : 5명
 >
 >기술 스택:  
->Java17 / Spring boot / React / Kotlin / Retrofit / Firebase Cloud Messaging /
->Gradle / JPA / Tomcat / MySQL / AWS 
+>Java17 / Spring boot/ JPA / React / Kotlin / Retrofit / Firebase Cloud Messaging /
+>Gradle / / Tomcat / MySQL / AWS 
 
 >[프로젝트 상세 설명](https://github.com/jinnnnyh/final_project.git) 참고
 
