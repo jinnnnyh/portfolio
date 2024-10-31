@@ -33,8 +33,8 @@
 
 ---
 
-### 3. [방 탈출 카페 예약 사이트](https://github.com/jinnnnyh/final_project.git)
->개발자 커뮤니티 웹사이트 (팀 프로젝트)  
+### 3. [Check Manager](https://github.com/jinnnnyh/final_project.git)
+>행사 회원 관리자 웹사이트, 회원용 QR 출석 어플(팀 프로젝트)  
 >개발 기간: 2024.10.02 ~ 2024.10.25
 >
 >팀원 : 5명
