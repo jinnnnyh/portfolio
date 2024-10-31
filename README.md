@@ -13,7 +13,7 @@
 >팀원 : 2명
 >
 >기술 스택:  
->Java 17 / Spring boot / / MyBatis / MySQL / HTML / Thymeleaf /
+>Java 17 / Spring boot / MyBatis / MySQL / HTML / Thymeleaf /
 >JQuery / Ajax / Bootstrap / Tomcat / Gradle / AWS
 >
 >[프로젝트 상세 설명](https://github.com/jinnnnyh/web_project.git) 참고
