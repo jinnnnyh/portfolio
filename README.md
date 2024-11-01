@@ -6,7 +6,7 @@
 6개월간 부산IT교육센터에 다니며 진행한 프로젝트입니다. 잘 부탁드립니다!
 
 ## :pushpin: Projects
-### 1. [비트포비아](https://github.com/jinnnnyh/web_project.git)
+### 1. [웹사이트 클론코딩](https://github.com/jinnnnyh/web_project.git)
 >방 탈출 카페 예약 사이트 클론 코딩(팀 프로젝트)  
 >개발 기간: 2024.07.22 ~ 2024.08.06
 >
